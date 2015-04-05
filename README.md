@@ -32,3 +32,8 @@ depois clique em SAVE E CONTINUE
 10 - Clique no link VISITE SEU SITE ou VISIT YOUR SITE.
 
 11 - Caso a tradução nao funcione, no final da instalação vá até o menu configurações > traduzir a interface > na aba importar, importe o arquivo de tradução que está na pasta "/profiles/starndard/translations" (a tradução fica por volta de 91% à 93%)
+
+
+### Drupal 7+ Gulp
+
+Para a instalação do Gulp na plataforma Drupal é preciso criar uma pasta com o ponto na frente ex: `.npm` e inclua o package.json e o gulpfile.js na pasta.
